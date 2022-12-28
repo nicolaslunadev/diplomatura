@@ -1,37 +1,51 @@
+/*font-family: 'Roboto', sans-serif;*/
+body{
+    background-color: #E1F5FE;
+    background: linear-gradient(180deg,#51b4f1 0%, #ffffff 100%);
+}
 h1{
     color: #0277BD;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Roboto', sans-serif;
     background-color: #E1F5FE;
     text-align: center;
+    border-radius: 10px;
 }
 h3{
     color: #0277BD;
     text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Roboto', sans-serif;
 }
 #fotocv{
     display: block;
     margin: auto;
+    box-shadow: 0px 9px 5px 0px rgba(0,0,0,0.75);
 }
 h4{
     text-align: center;
     background-color: #E1F5FE;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 10px;
 }
 #series{
-    color: #0277BD;
+    color: #01579B;
     display: flex;
     justify-content: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
 }
 #peliculas{
-    color: #0277BD;
+    color: #01579B;
     display: flex;
     justify-content: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
 }
 p{
-    color: #0277BD;
+    color: #01579B;
     text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+.movie{
+    color: #01579B;
 }
