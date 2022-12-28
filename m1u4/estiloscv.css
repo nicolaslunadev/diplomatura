@@ -1,0 +1,37 @@
+h1{
+    color: #0277BD;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #E1F5FE;
+    text-align: center;
+}
+h3{
+    color: #0277BD;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#fotocv{
+    display: block;
+    margin: auto;
+}
+h4{
+    text-align: center;
+    background-color: #E1F5FE;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#series{
+    color: #0277BD;
+    display: flex;
+    justify-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#peliculas{
+    color: #0277BD;
+    display: flex;
+    justify-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    color: #0277BD;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
