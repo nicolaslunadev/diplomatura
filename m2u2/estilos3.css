@@ -1,0 +1,37 @@
+#contenedor{
+    display: flex;
+    border-style: solid;
+    border-color: black;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#rojo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    color: white;
+    height: 100px;
+    width: 100px;
+}
+
+#azul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    color: white;
+    height: 100px;
+    width: 100px;
+}
+
+#verde{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: green;
+    color: white;
+    height: 100px;
+    width: 100px;
+}
